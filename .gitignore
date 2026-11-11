@@ -3,3 +3,4 @@ build/
 android/.gradle/
 **/build/
 **/.dart_tool/
+.DS_Store
