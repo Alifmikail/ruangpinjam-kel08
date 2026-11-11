@@ -1,0 +1,16 @@
+[
+  {"id": 1, "kode": "TULT-0604", "gedung": "TULT", "jenis": "Kelas", "kapasitas": 40, "adaProyektor": true, "tersediaMulai": "2026-11-12T07:00:00.000"},
+  {"id": 2, "kode": "TULT-0605", "gedung": "TULT", "jenis": "Kelas", "kapasitas": 40, "adaProyektor": true, "tersediaMulai": "2026-11-12T09:30:00.000"},
+  {"id": 3, "kode": "TULT-1401", "gedung": "TULT", "jenis": "Lab", "kapasitas": 30, "adaProyektor": true, "tersediaMulai": "2026-11-13T08:00:00.000"},
+  {"id": 4, "kode": "TULT-1601", "gedung": "TULT", "jenis": "Aula", "kapasitas": 200, "adaProyektor": true, "tersediaMulai": "2026-11-15T13:00:00.000"},
+  {"id": 5, "kode": "KU3-02.01", "gedung": "Gedung Kuliah Umum 3", "jenis": "Kelas", "kapasitas": 50, "adaProyektor": false, "tersediaMulai": "2026-11-12T10:30:00.000"},
+  {"id": 6, "kode": "KU3-02.05", "gedung": "Gedung Kuliah Umum 3", "jenis": "Kelas", "kapasitas": 45, "adaProyektor": true, "tersediaMulai": "2026-11-12T13:00:00.000"},
+  {"id": 7, "kode": "KU3-AULA", "gedung": "Gedung Kuliah Umum 3", "jenis": "Aula", "kapasitas": 150, "adaProyektor": true, "tersediaMulai": "2026-11-16T08:00:00.000"},
+  {"id": 8, "kode": "FRI-A305", "gedung": "Gedung Bangkit (FRI)", "jenis": "Lab", "kapasitas": 35, "adaProyektor": true, "tersediaMulai": "2026-11-12T15:30:00.000"},
+  {"id": 9, "kode": "FRI-A306", "gedung": "Gedung Bangkit (FRI)", "jenis": "Lab", "kapasitas": 35, "adaProyektor": false, "tersediaMulai": "2026-11-14T07:30:00.000"},
+  {"id": 10, "kode": "FRI-B201", "gedung": "Gedung Bangkit (FRI)", "jenis": "Kelas", "kapasitas": 40, "adaProyektor": true, "tersediaMulai": "2026-11-13T10:00:00.000"},
+  {"id": 11, "kode": "FIT-LAB-IOT", "gedung": "Gedung FIT", "jenis": "Lab", "kapasitas": 25, "adaProyektor": true, "tersediaMulai": "2026-11-13T13:30:00.000"},
+  {"id": 12, "kode": "FIT-201", "gedung": "Gedung FIT", "jenis": "Kelas", "kapasitas": 30, "adaProyektor": false, "tersediaMulai": "2026-11-12T08:00:00.000"},
+  {"id": 13, "kode": "GSG-UTAMA", "gedung": "Gedung Serba Guna", "jenis": "Aula", "kapasitas": 500, "adaProyektor": true, "tersediaMulai": "2026-11-20T08:00:00.000"},
+  {"id": 14, "kode": "OASIS-LAB-1", "gedung": "Gedung Oasis", "jenis": "Lab", "kapasitas": 40, "adaProyektor": true, "tersediaMulai": "2026-11-14T09:00:00.000"}
+]
