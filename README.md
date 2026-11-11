@@ -14,6 +14,10 @@ Proyek UTS Pengembangan Aplikasi Bergerak (BBK4DBB3) · Pertemuan 8
 |---|---|---|
 | Muhammad Alif Mikail Widayaka | 102022300094 | Seluruh pengerjaan (individu): server API, aplikasi Flutter, test, README, video demo |
 
+## Video demo
+
+https://drive.google.com/file/d/1uZ1bwI5jZaNgTvdpe9Z5J7JUwlbsC-uh/view?usp=sharing
+
 ## Struktur
 
 ```
